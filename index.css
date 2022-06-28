@@ -1,0 +1,28 @@
+.d-flex{
+    margin-right: 160px;
+}
+.form-control{
+    padding-right: 80px;
+}
+
+.carousel-inner{
+    margin-top: 82px;
+    height: 350px;
+    background-size: cover;
+}
+.card img{
+    height: 100% !important;
+    width:  100% !important;
+
+}
+.social_icons {
+    z-index: 999;
+    position: fixed;
+    right: 20px;
+    top: 250px;
+  }
+
+  .social_icons img {
+    width: 50px;
+
+  }
